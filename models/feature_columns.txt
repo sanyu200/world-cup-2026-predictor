@@ -1,0 +1,15 @@
+elo_diff
+home_elo
+away_elo
+rank_diff
+home_form
+away_form
+form_diff
+home_goals_scored_avg
+home_goals_conceded_avg
+away_goals_scored_avg
+away_goals_conceded_avg
+h2h_home_wins
+h2h_draws
+h2h_away_wins
+is_neutral
