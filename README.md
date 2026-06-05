@@ -6,7 +6,7 @@
 
 ---
 
-## 📸 Preview
+##  Preview
 
 | | |
 |---|---|
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 What it does
+## What it does
 
 Select any two of the 48 World Cup 2026 teams and get:
 - **Win / Draw / Loss probabilities** powered by XGBoost
@@ -24,7 +24,7 @@ Select any two of the 48 World Cup 2026 teams and get:
 
 ---
 
-## 🛠️ How it works
+##  How it works
 
 ### Data
 | Dataset | Source |
@@ -54,7 +54,7 @@ SHAP (SHapley Additive exPlanations) values show the contribution of each featur
 
 ---
 
-## 🚀 Run locally
+## Run locally
 
 ```bash
 # Clone the repo
@@ -103,7 +103,7 @@ world-cup-2026-predictor/
 
 ---
 
-## 🔧 Tech stack
+##  Tech stack
 
 `Python` · `XGBoost` · `scikit-learn` · `pandas` · `SHAP` · `Streamlit` · `matplotlib`
 
@@ -112,7 +112,7 @@ world-cup-2026-predictor/
 ## 👤 Author
 
 **Sana Bouhanda**  
-[GitHub](https://github.com/sanyu200) · [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/sanyu200) · [LinkedIn](www.linkedin.com/in/sana-bouhanda-b110b9280)
 
 ---
 
