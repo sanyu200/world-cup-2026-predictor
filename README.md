@@ -1,18 +1,19 @@
-# world-cup-2026-predictor
+# ⚽ World Cup 2026 Match Predictor
 
 > Predict the outcome of any World Cup 2026 match using machine learning — with explainable AI showing *why* the model made each prediction.
 
-🔗 **[Live Demo → your-app.streamlit.app]([https://your-app.streamlit.app](https://world-cup-2026-predictor-m4wrw53nhaeubjwaina2u7.streamlit.app/))**
+🔗 **[Live Demo → world-cup-2026-predictor.streamlit.app](https://world-cup-2026-predictor-m4wrw53nhaeubjwaina2u7.streamlit.app/)**
 
 ---
 
 ## 📸 Preview
 
-<!-- Replace with a real screenshot after deploying -->
-![App Preview](screenshot.png)
+| | |
+|---|---|
+| ![Team selector](screenshot1.png) | ![Probability bars](screenshot2.png) |
+| ![Stats comparison](screenshot3.png) | ![SHAP explanation](screenshot4.png) |
 
 ---
-
 
 ## 🧠 What it does
 
