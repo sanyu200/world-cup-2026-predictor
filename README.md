@@ -112,7 +112,7 @@ world-cup-2026-predictor/
 ## 👤 Author
 
 **Sana Bouhanda**  
-[GitHub](https://github.com/sanyu200) · [LinkedIn](www.linkedin.com/in/sana-bouhanda-b110b9280)
+[GitHub](https://github.com/sanyu200) · [LinkedIn](https://www.linkedin.com/in/sana-bouhanda-b110b9280/)
 
 ---
 
